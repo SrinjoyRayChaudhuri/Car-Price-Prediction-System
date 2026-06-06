@@ -2,6 +2,10 @@
 
 A Machine Learning web application that predicts the resale value of used cars based on vehicle details such as company, model, manufacturing year, fuel type, and kilometers driven.
 
+
+🔗 Live App:
+https://srinjoyraychaudhuri-car-price-prediction-system-app-aari3n.streamlit.app/
+
 ## Features
 
 * Data cleaning and preprocessing
